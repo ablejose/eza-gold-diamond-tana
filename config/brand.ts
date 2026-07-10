@@ -45,9 +45,9 @@ export const BRAND: BrandConfig = {
 
   storeImages: [
     "/images/store1.webp",
-    "https://res.cloudinary.com/fylz5e3j/image/upload/v1783495082/What_s_Driving_the_Surge_in_Hallmark_Registration_Across_India_tgfpfs.jpg",
-    "https://res.cloudinary.com/fylz5e3j/image/upload/v1783495080/download_4_jsatvk.jpg",
-    "https://res.cloudinary.com/fylz5e3j/image/upload/v1783495081/Traditional_Gold_Jhumka_Earrings_with_Pearls___Indian_Ethnic_Jewelry_zmlimu.jpg",
+    "/images/store2.webp",
+    "/images/store3.webp",
+    "/images/store4.webp",
   ],
 
   address: "Main Road, Opposite Town Hall, Tana, Irinjalakuda, Thrissur, Kerala 680121",
@@ -60,7 +60,7 @@ export const BRAND: BrandConfig = {
   email: "",
 
   mapsLink:
-    "https://maps.google.com/?q=Eza+Gold+Diamond+Irinjalakuda",
+    "https://www.google.com/maps/place/EZA+Gold+%26+Diamond/data=!4m7!3m6!1s0x3ba7ee4a25f07a99:0x3d03a2377bac6f98!8m2!3d10.520146!4d76.2192171!16s%2Fg%2F11btvwr5pw!19sChIJmXrwJUrupzsRmG-sezeiAz0?authuser=0&hl=en&rclk=1",
 
   openingHours: "Mon–Sat: 9:30 AM – 8:00 PM · Sunday: 10:00 AM – 7:00 PM",
 
@@ -82,7 +82,7 @@ export const BRAND: BrandConfig = {
     ],
     canonical: "https://eza-gold-diamond-tana.vercel.app",
     ogImage:
-      "https://res.cloudinary.com/fylz5e3j/image/upload/v1783495082/What_s_Driving_the_Surge_in_Hallmark_Registration_Across_India_tgfpfs.jpg",
+      "https://eza-gold-diamond-tana.vercel.app/images/store1.webp",
   },
 
   faq: [],
